@@ -1,0 +1,23 @@
+
+.Profile{
+    width: 40%;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    transition: border-color 1s;
+    text-align: center;
+  }
+  
+  .Profile:hover{
+    border-color: red;
+  }
+  
+  .Profile h2{
+    color: black;
+    transition: color 1s;
+  }
+  
+  .Profile:hover h2{
+    color: red;
+  }
+  /* /??? */

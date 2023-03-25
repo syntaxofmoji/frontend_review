@@ -1,0 +1,14 @@
+*{
+    margin: 20px;
+    text-align: center;
+  }
+  
+  li{
+    color: lightgreen;
+    list-style: none;
+  }
+  
+  li:hover{
+    color:red;
+  }
+  
